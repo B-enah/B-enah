@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Gikonyo 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kenya-cba6f7?style=for-the-badge" alt="Kenya" />
-  <img src="https://img.shields.io/badge/JKUAT-89b4fa?style=for-the-badge" alt="JKUAT" />
+  <!--<img src="https://img.shields.io/badge/Kenya-cba6f7?style=for-the-badge" alt="Kenya" /> -->
+  <!-- <img src="https://img.shields.io/badge/JKUAT-89b4fa?style=for-the-badge" alt="JKUAT" /> -->
   <img src="https://img.shields.io/badge/Full--Stack_Web_Developer-a6e3a1?style=for-the-badge" alt="Full-stack web developer" />
 </p>
 
@@ -42,8 +42,6 @@ I design APIs, model databases, build the interfaces that consume them, and debu
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Next.js, React, Tailwind CSS" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/shadcn/ui-1e1e2e?style=for-the-badge&logo=shadcnui&logoColor=cdd6f4" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/React_Hook_Form-f38ba8?style=for-the-badge&logo=reacthookform&logoColor=1e1e2e" alt="React Hook Form" />
   <img src="https://img.shields.io/badge/Zod-89b4fa?style=for-the-badge&logo=zod&logoColor=1e1e2e" alt="Zod" />
@@ -57,8 +55,6 @@ I design APIs, model databases, build the interfaces that consume them, and debu
 
 <p>
   <img src="https://skillicons.dev/icons?i=bun,express,postgres,sqlite&theme=dark" alt="Bun, Express, PostgreSQL, SQLite" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/Drizzle_ORM-f9e2af?style=for-the-badge&logo=drizzle&logoColor=1e1e2e" alt="Drizzle ORM" />
   <img src="https://img.shields.io/badge/Better_Auth-cba6f7?style=for-the-badge" alt="Better Auth" />
   <img src="https://img.shields.io/badge/M--Pesa-a6e3a1?style=for-the-badge" alt="M-Pesa" />
@@ -74,8 +70,6 @@ I design APIs, model databases, build the interfaces that consume them, and debu
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,pnpm&theme=dark" alt="Git, GitHub, GitHub Actions, pnpm" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/Turborepo-f38ba8?style=for-the-badge&logo=turborepo&logoColor=1e1e2e" alt="Turborepo" />
   <img src="https://img.shields.io/badge/Bruno-fab387?style=for-the-badge&logo=bruno&logoColor=1e1e2e" alt="Bruno" />
   <img src="https://img.shields.io/badge/Biome-89b4fa?style=for-the-badge&logo=biome&logoColor=1e1e2e" alt="Biome" />
